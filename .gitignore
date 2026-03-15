@@ -1,2 +1,3 @@
-.log
-pychache/
+*.log
+__pycache__/
+.env
